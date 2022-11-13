@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 17 non-argument constructor">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 18 module method + tested">
       <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668381612959</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Eric Sans Vidal - Exercise 18 module method + tested">
+      <created>1668383535578</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668383535578</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +190,7 @@
     <MESSAGE value="Exercise 16 non-argument constructor" />
     <MESSAGE value="Eric Sans Vidal - Exercise 16 non-argument constructor" />
     <MESSAGE value="Eric Sans Vidal - Exercise 17 non-argument constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 17 non-argument constructor" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 18 module method + tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 18 module method + tested" />
   </component>
 </project>

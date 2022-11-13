@@ -16,5 +16,9 @@ public class Main2 {
         //Testing module method
         //Segment stest = new Segment (p1,p2);
         //System.out.println(stest.module(stest));
+
+        //Testing module toString
+        //Segment stest = new Segment (p1,p2);
+        //System.out.println(stest);
     }
 }

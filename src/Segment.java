@@ -38,4 +38,9 @@ public class Segment {
 
         return Math.sqrt(Math.pow(xDistance,2)+Math.pow(yDistance,2));
     }
+
+    public String toString(){
+        return "("+getStartPoint().getX()+","+getStartPoint().getY()+")"+" - "+
+                "("+getEndPoint().getX()+","+getEndPoint().getY()+")";
+    }
 }
