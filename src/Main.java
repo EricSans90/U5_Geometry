@@ -3,5 +3,7 @@ public class Main {
         Point p = new Point(2,8);
         p.moveTo(5,6);
         System.out.println(p);
+        //testing that getX works
+        //System.out.println(p.getX());
     }
 }
