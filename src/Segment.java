@@ -3,6 +3,7 @@ public class Segment {
     private Point startPoint;
     private Point endPoint;
 
+    //Non argument constructor
     public Segment(){
         startPoint.setX(0);
         startPoint.setY(0);
