@@ -1,5 +1,5 @@
 public class Point {
-    //2 int fields
+    //2 int fields set on private
     private int x = 0;
     private int y = 0;
 
