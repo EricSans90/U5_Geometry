@@ -11,4 +11,9 @@ public class Segment {
         endPoint.setY(0);
     }
 
+    //two points argument constuctor
+    public Segment(Point p1, Point p2){
+        startPoint=p1;
+        endPoint=p2;
+    }
 }
