@@ -66,4 +66,9 @@ public class Point {
         return y;
     }
 
+    public void setOffset(int offX, int offY){
+        x+=offX;
+        y+=offY;
+    }
+
 }

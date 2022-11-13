@@ -5,5 +5,8 @@ public class Main {
         System.out.println(p);
         //testing that getX works
         //System.out.println(p.getX());
+        //testing that setOffset works
+        //p.setOffset(2,2);
+        //System.out.println(p);
     }
 }
