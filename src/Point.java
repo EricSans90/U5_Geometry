@@ -26,7 +26,7 @@ public class Point {
     //  this.y=y;
     //}
 
-    //public method to set non negative X
+    //public method to set non-negative X
     //public void setX(int newX){
     //    if newX (<0){
     //        x=-newX;
