@@ -4,5 +4,6 @@ public class Main4 {
         Rectangle r = new Rectangle(p, 4, 2);
         System.out.println(p);
         //System.out.println(r);
+        Rectangle R = new Rectangle();
     }
 }

@@ -8,4 +8,9 @@ public class Rectangle {
         this.width = width;
         this.height = height;
     }
+    public Rectangle() {
+        super();
+        this.width = 0;
+        this.height = 0;
+    }
 }
