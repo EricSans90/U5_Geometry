@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercises 39 getArea()" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668462919316</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Eric Sans Vidal - Exercises 39 getArea()">
+      <created>1668468434652</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1668468434652</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +309,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 12" />
     <MESSAGE value="Exercise 13" />
     <MESSAGE value="Exercise 14" />
     <MESSAGE value="Exercise 15" />
@@ -329,6 +333,18 @@
     <MESSAGE value="Eric Sans Vidal - (last commit failed and I missunderstood the exercise 32, so I did it again) Exercise 32" />
     <MESSAGE value="Eric Sans Vidal - Exercises 33-36 (I had some work done by before)" />
     <MESSAGE value="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)" />
+    <MESSAGE value="Eric Sans Vidal - Exercises 39 getArea()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercises 39 getArea()" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main4.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

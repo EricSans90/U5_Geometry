@@ -30,7 +30,7 @@ public class Rectangle extends Point {
         this.p.setY(y);
     }
 
-    public Point getP() {
+    public Point getPoint() {
         return p;
     }
 

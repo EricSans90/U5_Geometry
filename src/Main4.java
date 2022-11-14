@@ -6,7 +6,7 @@ public class Main4 {
         //System.out.println(p);
         System.out.println(r.toString());
 
-        Point targetPoint = r.getP();
+        Point targetPoint = r.getPoint();
         targetPoint.setX(4);
         targetPoint.setY(7);
         r.setP(targetPoint);
