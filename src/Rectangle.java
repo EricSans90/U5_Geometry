@@ -25,6 +25,8 @@ public class Rectangle extends Point {
 
         return "The left corner is ("+ this.p.getX()+","+this.p.getY()+"). The width is: "+width+", and the height is: "+height";
     }*/
+
+    //new toString
     public String toString(){
 
         return "("+ this.p.getX()+","+this.p.getY()+"). Width: "+width+" height: "+height;
