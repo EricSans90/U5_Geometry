@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 22 main3 + tested" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested">
+      <change afterPath="$PROJECT_DIR$/src/MainPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668390082103</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested">
+      <created>1668390562388</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1668390562388</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +232,8 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 20 setOffset + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 22 main3 + tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 22 main3 + tested" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
