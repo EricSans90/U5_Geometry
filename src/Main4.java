@@ -19,5 +19,10 @@ public class Main4 {
         Rectangle t = new Rectangle(p,8,6);
         System.out.println(t);
 
+        Point p1 = new Point(2, 2);
+        Point p2 = new Point(5, 8);
+        Rectangle u = new Rectangle(p1,p2);
+        System.out.println(u);
+
     }
 }
