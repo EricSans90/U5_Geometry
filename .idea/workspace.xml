@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 21 set start and end points + tested">
-      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
-    </list>
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 22 main3 + tested" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668386967833</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Eric Sans Vidal - Exercise 22 main3 + tested">
+      <created>1668390082103</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668390082103</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +220,8 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 19 module toString + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 20 setOffset + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 22 main3 + tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 22 main3 + tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
