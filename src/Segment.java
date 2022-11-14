@@ -2,6 +2,7 @@ import java.lang.Math;
 
 public class Segment {
     //2 Point fields set on private
+    //Si no lo hago así me devuelve un NullPointer...
     Point p1 = new Point (0,0);
     Point p2 = new Point (0,0);
     private Point startPoint=p1;
@@ -9,10 +10,10 @@ public class Segment {
 
     //Non argument constructor
     public Segment(){
-        startPoint.setX(0);
-        startPoint.setY(0);
-        endPoint.setX(0);
-        endPoint.setY(0);
+        //startPoint.setX(0);
+        //startPoint.setY(0);
+        //endPoint.setX(0);
+        //endPoint.setY(0);
     }
 
     //two points argument constuctor

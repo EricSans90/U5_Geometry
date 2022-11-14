@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 20 setOffset + tested">
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 21 set start and end points + tested">
+      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668384688967</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Eric Sans Vidal - Exercise 21 set start and end points + tested">
+      <created>1668386967833</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668386967833</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,7 +216,8 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 18 module method + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 19 module toString + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 20 setOffset + tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 20 setOffset + tested" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
