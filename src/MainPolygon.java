@@ -11,7 +11,7 @@ public class MainPolygon {
         //Testing constructor of ppoints
         myPolygon1 = new Polygon (p1,p2,p3,p4);
         myPolygon2 = new Polygon ();
-
+        System.out.println(myPolygon2);
 
 
     }

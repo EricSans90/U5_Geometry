@@ -34,4 +34,12 @@ public class Polygon {
         this.Point4=Point4;
 
     }
+
+    public String toString(){
+        return "("+Point1.getX()+","+Point1.getY()+")"+" - "+
+                "("+Point2.getX()+","+Point2.getY()+")"+" - "+
+                "("+Point3.getX()+","+Point3.getY()+")"+" - "+
+                "("+Point4.getX()+","+Point4.getY()+")"+" - "+
+                "("+Point1.getX()+","+Point1.getY()+")";
+    }
 }
