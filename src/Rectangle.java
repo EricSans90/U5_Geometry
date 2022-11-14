@@ -1,4 +1,4 @@
-public class Rectangle {
+public class Rectangle extends Point {
     private Point p;
     private int width=0;
     private int height=0;
@@ -7,10 +7,19 @@ public class Rectangle {
         super();
         this.width = width;
         this.height = height;
+        this.p = p;
     }
     public Rectangle() {
         super();
         this.width = 0;
         this.height = 0;
+    }
+
+    //public Point getPoint(){
+    //    return Point p;
+    //}
+
+    public String toString(){
+        return "The left corner is ("+ this.p.getX()+","+this.p.getY()+"). The width is: "+width+", and the height is: "+height+")";
     }
 }

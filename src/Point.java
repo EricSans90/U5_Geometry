@@ -16,8 +16,8 @@ public class Point {
 
     //a 2 type int parameter constructor
     public Point(int a, int b) {
-        x = a;
-        y = b;
+        this.x = a;
+        this.y = b;
     }
 
     //using this
