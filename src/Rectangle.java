@@ -38,9 +38,6 @@ public class Rectangle extends Point {
         this.p = p;
     }
 
-    //public Point getPoint(){
-    //    return Point p;
-    //}
 
     /*method I used for testing before
     public String toString(){
@@ -51,6 +48,10 @@ public class Rectangle extends Point {
     public String toString(){
 
         return "("+ this.p.getX()+","+this.p.getY()+"). Width: "+width+" height: "+height;
+    }
+
+    public double getArea(){
+        return (this.width)*(this.height);
     }
 
 }

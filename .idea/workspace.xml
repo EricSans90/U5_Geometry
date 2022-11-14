@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercises 33-36 (I had some work done by before)">
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668462514485</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)">
+      <created>1668462919316</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1668462919316</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +304,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 10 and 11" />
     <MESSAGE value="Exercise 12" />
     <MESSAGE value="Exercise 13" />
     <MESSAGE value="Exercise 14" />
@@ -322,6 +328,7 @@
     <MESSAGE value="Eric Sans Vidal - (last commit failed)" />
     <MESSAGE value="Eric Sans Vidal - (last commit failed and I missunderstood the exercise 32, so I did it again) Exercise 32" />
     <MESSAGE value="Eric Sans Vidal - Exercises 33-36 (I had some work done by before)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercises 33-36 (I had some work done by before)" />
+    <MESSAGE value="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercises 37-38 (I did them together because I used the main to test the constructor)" />
   </component>
 </project>
