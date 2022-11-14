@@ -3,14 +3,16 @@ import java.lang.Math;
 public class Segment {
     //2 Point fields set on private
     //Si no lo hago así me devuelve un NullPointer...
-    Point p1 = new Point (0,0);
-    Point p2 = new Point (0,0);
-    private Point startPoint=p1;
-    private Point endPoint=p2;
+   // Point p1 = new Point (0,0);
+   // Point p2 = new Point (0,0);
+    private Point startPoint;//= new Point (0,0);
+    private Point endPoint;//= new Point (0,0);
 
     //Non argument constructor
     public Segment(){
-        //startPoint.setX(0);
+        this.startPoint = new Point(0,0);
+        this.endPoint = new Point(0,0);
+        //I can't Set something that isn't there...
         //startPoint.setY(0);
         //endPoint.setX(0);
         //endPoint.setY(0);
@@ -43,8 +45,8 @@ public class Segment {
     }
 
     public String toString(){
-        return "("+getStartPoint().getX()+","+getStartPoint().getY()+")"+" - "+
-                "("+getEndPoint().getX()+","+getEndPoint().getY()+")";
+        return "("+getStartPoint().getX()+","+getStartPoint().getY()+") - ("
+                +getEndPoint().getX()+","+getEndPoint().getY()+")";
     }
 
     public Segment setOffset(int offX, int offY){
