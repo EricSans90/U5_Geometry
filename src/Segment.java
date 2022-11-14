@@ -2,8 +2,10 @@ import java.lang.Math;
 
 public class Segment {
     //2 Point fields set on private
-    private Point startPoint;
-    private Point endPoint;
+    Point p1 = new Point (0,0);
+    Point p2 = new Point (0,0);
+    private Point startPoint=p1;
+    private Point endPoint=p2;
 
     //Non argument constructor
     public Segment(){
@@ -49,5 +51,12 @@ public class Segment {
         endPoint.setOffset(offX,offY);
         //Must include new
         return new Segment(startPoint,endPoint);
+    }
+
+    public Point setStartPoint(Point startP){
+        return this.startPoint=startP;
+    }
+    public Point setEndPoint(Point endP){
+        return this.endPoint=endP;
     }
 }

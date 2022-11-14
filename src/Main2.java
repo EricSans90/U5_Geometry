@@ -22,8 +22,18 @@ public class Main2 {
         //System.out.println(stest);
 
         //Testing Segment offSet
-        Segment stest = new Segment (p1,p2);
-        stest=stest.setOffset(2,2);
-        System.out.println(stest);
+        //Segment stest = new Segment (p1,p2);
+        //stest=stest.setOffset(2,2);
+        //System.out.println(stest);
+
+        //Testing setPoints
+
+        Segment sTest = new Segment();
+        sTest.setStartPoint(p1);
+        sTest.setEndPoint(p2);
+        System.out.println(sTest);
     }
 }
+
+//Point p3 = new Point ();
+//        System.out.println(p3);
