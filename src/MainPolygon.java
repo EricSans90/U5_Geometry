@@ -12,6 +12,8 @@ public class MainPolygon {
         myPolygon1 = new Polygon (p1,p2,p3,p4);
         myPolygon2 = new Polygon ();
         System.out.println(myPolygon2);
+        myPolygon2.setOffset(5,5);
+        System.out.println(myPolygon2);
 
 
     }

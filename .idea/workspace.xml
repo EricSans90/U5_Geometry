@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 25 and 26 (still have to do the array part on the 24)">
-      <change beforePath="$PROJECT_DIR$/src/MainPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainPolygon.java" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 27">
       <change beforePath="$PROJECT_DIR$/src/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668396992427</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Eric Sans Vidal - Exercise 27">
+      <created>1668397366271</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668397366271</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +246,8 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 22 main3 + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 25 and 26 (still have to do the array part on the 24)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 25 and 26 (still have to do the array part on the 24)" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

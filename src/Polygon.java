@@ -42,4 +42,13 @@ public class Polygon {
                 "("+Point4.getX()+","+Point4.getY()+")"+" - "+
                 "("+Point1.getX()+","+Point1.getY()+")";
     }
+
+    public Polygon setOffset(int offX, int offY){
+        Point1.setOffset(offX,offY);
+        Point2.setOffset(offX,offY);
+        Point3.setOffset(offX,offY);
+        Point4.setOffset(offX,offY);
+        //Must include new
+        return new Polygon(Point1,Point2,Point3,Point4);
+    }
 }
