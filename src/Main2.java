@@ -20,5 +20,10 @@ public class Main2 {
         //Testing module toString
         //Segment stest = new Segment (p1,p2);
         //System.out.println(stest);
+
+        //Testing Segment offSet
+        Segment stest = new Segment (p1,p2);
+        stest=stest.setOffset(2,2);
+        System.out.println(stest);
     }
 }

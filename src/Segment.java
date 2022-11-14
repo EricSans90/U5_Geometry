@@ -43,4 +43,11 @@ public class Segment {
         return "("+getStartPoint().getX()+","+getStartPoint().getY()+")"+" - "+
                 "("+getEndPoint().getX()+","+getEndPoint().getY()+")";
     }
+
+    public Segment setOffset(int offX, int offY){
+        startPoint.setOffset(offX,offY);
+        endPoint.setOffset(offX,offY);
+        //Must include new
+        return new Segment(startPoint,endPoint);
+    }
 }
