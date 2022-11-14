@@ -15,5 +15,9 @@ public class Main4 {
         r.setNewPointPosition(4, 7);
         System.out.println(r);*/
 
+        Point p = new Point(1, 1);
+        Rectangle t = new Rectangle(p,8,6);
+        System.out.println(t);
+
     }
 }
