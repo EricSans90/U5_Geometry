@@ -19,12 +19,11 @@ public class Rectangle extends Point {
         super();
         this.width = 0;
         this.height = 0;
-        //this.p = new Point();
+
     }
 
     public Rectangle(Point p1, Point p2) {
-        // super(p.getX(), p.getY());
-        //this.p = p1;
+        super(p1.getX(), p1.getY());
         this.width = p2.getX() - p1.getX();
         this.height = p2.getY() - p1.getY();
     }
