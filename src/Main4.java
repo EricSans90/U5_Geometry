@@ -26,6 +26,9 @@ public class Main4 {
 
         System.out.println("Last rectangle's point is: "+u.getPoint());
 
+        System.out.println(u.getTopLeftPoint());
+        System.out.println(u.getTopRightPoint());
+
         //System.out.println(t.getArea());
 
     }

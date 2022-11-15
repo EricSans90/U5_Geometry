@@ -54,4 +54,18 @@ public class Rectangle extends Point {
         return (this.width)*(this.height);
     }
 
+    public Point getTopLeftPoint() {
+        Point aux = new Point();
+        aux.setX(this.p.getX());
+        aux.setY(this.p.getY()+this.height);
+        return aux;
+    }
+
+    public Point getTopRightPoint() {
+        Point aux = new Point();
+        aux.setX(this.p.getX()+this.width);
+        aux.setY(this.p.getY()+this.height);
+        return aux;
+    }
+
 }
