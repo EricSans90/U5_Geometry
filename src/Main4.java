@@ -4,27 +4,26 @@ public class Main4 {
         //Rectangle r = new Rectangle(p, 4, 2);
         Rectangle r = new Rectangle();
         //System.out.println(p);
-        System.out.println(r.toString());
-
-        Point targetPoint = r.getPoint();
-        targetPoint.setX(4);
-        targetPoint.setY(7);
-        r.setP(targetPoint);
         System.out.println(r);
-        /* solution 2
-        r.setNewPointPosition(4, 7);
-        System.out.println(r);*/
+        r.setX(4);
+        r.setY(7);
+        System.out.println(r);
+        System.out.println();
+        // I could use the Method I created setNewPointPosition
 
         Point p = new Point(1, 1);
         Rectangle t = new Rectangle(p,8,6);
         System.out.println(t);
+        System.out.println();
+
 
         Point p1 = new Point(2, 2);
         Point p2 = new Point(5, 8);
         Rectangle u = new Rectangle(p1,p2);
         System.out.println(u);
+        System.out.println();
 
-        System.out.println("Last rectangle's point is: "+u.getPoint());
+        //System.out.println("Last rectangle's point is: "+u);
 
         /* TESTING
         System.out.println(u.getTopLeftPoint());
