@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 42 and 43 topLeft and topRight">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 44 and 45 bottomLeft and bottomRight">
       <change beforePath="$PROJECT_DIR$/src/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668470574866</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Eric Sans Vidal - Exercise 44 and 45 bottomLeft and bottomRight">
+      <created>1668470820802</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1668470820802</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,7 +339,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 16 non-argument constructor" />
     <MESSAGE value="Eric Sans Vidal - Exercise 16 non-argument constructor" />
     <MESSAGE value="Eric Sans Vidal - Exercise 17 non-argument constructor" />
     <MESSAGE value="Eric Sans Vidal - Exercise 18 module method + tested" />
@@ -359,6 +363,7 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 40 getPoint() I had a previous getP() I renamed it" />
     <MESSAGE value="Eric Sans Vidal - Exercise 41 getting point of u and printing it" />
     <MESSAGE value="Eric Sans Vidal - Exercise 42 and 43 topLeft and topRight" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 42 and 43 topLeft and topRight" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 44 and 45 bottomLeft and bottomRight" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 44 and 45 bottomLeft and bottomRight" />
   </component>
 </project>

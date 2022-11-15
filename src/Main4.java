@@ -26,11 +26,19 @@ public class Main4 {
 
         System.out.println("Last rectangle's point is: "+u.getPoint());
 
+        /* TESTING
         System.out.println(u.getTopLeftPoint());
         System.out.println(u.getTopRightPoint());
         System.out.println(u.getBottomLeftPoint());
         System.out.println(u.getBottomRightPoint());
-        //System.out.println(t.getArea());
+        System.out.println(t.getArea()); */
+        Point o = new Point(5,6);
+        Rectangle w = new Rectangle(o,10,8);
+        System.out.println(w);
+        System.out.print("Top-Left: ("+w.getTopLeftPoint().getX()+","+w.getTopLeftPoint().getY()+") ");
+        System.out.print("Top-Right: ("+w.getTopRightPoint().getX()+","+w.getTopRightPoint().getY()+") ");
+        System.out.print("Bottom-Left: ("+w.getBottomLeftPoint().getX()+","+w.getBottomLeftPoint().getY()+") ");
+        System.out.print("Bottom-Right: ("+w.getBottomRightPoint().getX()+","+w.getBottomRightPoint().getY()+") ");
 
     }
 }
