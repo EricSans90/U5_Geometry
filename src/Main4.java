@@ -28,7 +28,8 @@ public class Main4 {
 
         System.out.println(u.getTopLeftPoint());
         System.out.println(u.getTopRightPoint());
-
+        System.out.println(u.getBottomLeftPoint());
+        System.out.println(u.getBottomRightPoint());
         //System.out.println(t.getArea());
 
     }

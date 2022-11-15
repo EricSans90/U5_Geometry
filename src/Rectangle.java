@@ -33,7 +33,6 @@ public class Rectangle extends Point {
     public Point getPoint() {
         return p;
     }
-
     public void setP(Point p) {
         this.p = p;
     }
@@ -60,12 +59,19 @@ public class Rectangle extends Point {
         aux.setY(this.p.getY()+this.height);
         return aux;
     }
-
     public Point getTopRightPoint() {
         Point aux = new Point();
         aux.setX(this.p.getX()+this.width);
         aux.setY(this.p.getY()+this.height);
         return aux;
     }
-
+    public Point getBottomLeftPoint() {
+        return p;
+    }
+    public Point getBottomRightPoint() {
+        Point aux = new Point();
+        aux.setX(this.p.getX() + this.width);
+        aux.setY(this.p.getY());
+        return aux;
+    }
 }
