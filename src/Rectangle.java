@@ -74,4 +74,18 @@ public class Rectangle extends Point {
         aux.setY(this.p.getY());
         return aux;
     }
+
+    public int getWidth(){
+        return this.width;
+    }
+    public int getHeight(){
+        return this.height;
+    }
+    public void setWidth(int newWidth) {
+        this.width = newWidth;
+    }
+
+    public void setHeight(int newHeight) {
+        this.height = newHeight;
+    }
 }

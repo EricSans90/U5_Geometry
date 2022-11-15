@@ -39,6 +39,9 @@ public class Main4 {
         System.out.print("Top-Right: ("+w.getTopRightPoint().getX()+","+w.getTopRightPoint().getY()+") ");
         System.out.print("Bottom-Left: ("+w.getBottomLeftPoint().getX()+","+w.getBottomLeftPoint().getY()+") ");
         System.out.print("Bottom-Right: ("+w.getBottomRightPoint().getX()+","+w.getBottomRightPoint().getY()+") ");
+        System.out.println();
+        //System.out.println(w.getWidth());
+
 
     }
 }
