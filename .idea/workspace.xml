@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 48 main 5 and instanciate">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Exercise 50 print them all">
       <change beforePath="$PROJECT_DIR$/src/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668471655707</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Eric Sans Vidal - Exercise 49 initialize the array to the points">
+      <created>1668471971029</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1668471971029</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Eric Sans Vidal - Exercise 50 print them all">
+      <created>1668472079051</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1668472079051</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,8 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Eric Sans Vidal - Exercise 19 module toString + tested" />
-    <MESSAGE value="Eric Sans Vidal - Exercise 20 setOffset + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 21 set start and end points + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 22 main3 + tested" />
     <MESSAGE value="Eric Sans Vidal - Exercise 23 I already did getStartPoint and getEndPoint when I did the module method + tested" />
@@ -386,6 +397,8 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 46 rectangles + get points and print" />
     <MESSAGE value="Eric Sans Vidal - Exercise 47 get set W and H" />
     <MESSAGE value="Eric Sans Vidal - Exercise 48 main 5 and instanciate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 48 main 5 and instanciate" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 49 initialize the array to the points" />
+    <MESSAGE value="Eric Sans Vidal - Exercise 50 print them all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Exercise 50 print them all" />
   </component>
 </project>
