@@ -5,7 +5,7 @@ public class Main5 {
 
         for (int i = 0; (i < 10); i++) {
             points[i]=new Point(i,i);
-
+            System.out.println(points[i]);
         }
     }
 }
