@@ -32,17 +32,26 @@ public class Segment {
     }
 
     //method module
-    public double module(Segment s1){
-        double x1=0, x2=0, y1=0, y2=0, xDistance=0, yDistance=0;
-        x1=s1.getStartPoint().getX();
-        y1=s1.getStartPoint().getY();
-        x2=s1.getEndPoint().getX();
-        y2=s1.getEndPoint().getY();
+    public double module(){
+        double x1=0, x2=0, y1=0, y2=0, xDistance=0, yDistance=0, xDistanceSquare=0, yDistanceSquare=0;
+        x1=this.startPoint.getX();
+        y1=this.startPoint.getY();
+        x2=this.endPoint.getX();
+        y2=this.endPoint.getY();
         xDistance = x2-x1;
         yDistance = y2-y1;
+        return Math.sqrt((Math.pow(xDistance,2))+(Math.pow(yDistance,2)));
+    }
 
-
-        return Math.sqrt(Math.pow(xDistance,2)+Math.pow(yDistance,2));
+    public double moduleSquare(){
+        double x1=0, x2=0, y1=0, y2=0, xDistance=0, yDistance=0;
+        x1=this.startPoint.getX();
+        y1=this.startPoint.getY();
+        x2=this.endPoint.getX();
+        y2=this.endPoint.getY();
+        xDistance = x2-x1;
+        yDistance = y2-y1;
+        return (Math.pow(xDistance,2)+Math.pow(yDistance,2));
     }
 
     public String toString(){

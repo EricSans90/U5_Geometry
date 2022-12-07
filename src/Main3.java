@@ -8,6 +8,6 @@ public class Main3 {
         s1.setEndPoint(p2);
         s1.setOffset(4,4);
         System.out.println(s1);
-        System.out.println("The module of s1 is: "+ s1.module(s1));
+        System.out.println("The module of s1 is: "+ s1.module());
     }
 }

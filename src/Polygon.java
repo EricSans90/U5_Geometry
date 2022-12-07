@@ -60,10 +60,10 @@ public class Polygon {
         int i = 0;
         for (i = 1; (i < ps.length) && (i < 10) && (ps[i]!=null); i++) {
             Segment aux = new Segment(ps[i],ps[i-1]);
-            totalLength+=aux.module(aux);
+            totalLength+=aux.module();
         }
         Segment aux = new Segment(ps[0],ps[1]);
-        totalLength+=aux.module(aux);
+        totalLength+=aux.module();
 
     return totalLength;
     }

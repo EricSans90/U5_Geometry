@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - I have fixed 1 little mistake on the constructor Rectangle with point arguments">
-      <change afterPath="$PROJECT_DIR$/src/MainTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+    <list default="true" id="1903aba4-237e-4053-8086-4527ee32a0c5" name="Changes" comment="Eric Sans Vidal - Half of the triangle exercise">
+      <change afterPath="$PROJECT_DIR$/src/TestMyTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainTriangle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -385,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668538769791</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Eric Sans Vidal - Half of the triangle exercise">
+      <created>1670450673406</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1670450673406</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Eric Sans Vidal - Exercise 25 and 26 (still have to do the array part on the 24)" />
     <MESSAGE value="Eric Sans Vidal - Exercise 27" />
     <MESSAGE value="Eric Sans Vidal - Exercise 29" />
     <MESSAGE value="Eric Sans Vidal - I fixed all exercises from 24 to 29, because I've done it without arrays , and now they are with arrays." />
@@ -425,6 +433,7 @@
     <MESSAGE value="Eric Sans Vidal - Exercise 51" />
     <MESSAGE value="Eric Sans Vidal - I have fixed the rectangles, so now they work only as a subclass of point (as it should be from beginning)" />
     <MESSAGE value="Eric Sans Vidal - I have fixed 1 little mistake on the constructor Rectangle with point arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - I have fixed 1 little mistake on the constructor Rectangle with point arguments" />
+    <MESSAGE value="Eric Sans Vidal - Half of the triangle exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric Sans Vidal - Half of the triangle exercise" />
   </component>
 </project>

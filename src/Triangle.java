@@ -26,7 +26,21 @@ public class Triangle {
         Segment s2 = new Segment(this.v2,this.v3);
         Segment s3 = new Segment(this.v1,this.v3);
         //I had a poorly made constructor for module, but I reused it here:
-        return s1.module(s1)+s2.module(s2)+s3.module(s3);
+        return s1.module()+s2.module()+s3.module();
+    }
+
+    public String printType(){
+        Segment s1 = new Segment(this.v1,this.v2);
+        Segment s2 = new Segment(this.v2,this.v3);
+        Segment s3 = new Segment(this.v1,this.v3);
+        if (s1.module() == s2.module() && s2.module() == s3.module()) {
+            return "equilateral";
+        } else if (s1.module() == s2.module() || s1.module() == s3.module()||s2.module() == s3.module()) {
+            return "isosceles";
+        } else
+        return "scalene";
+
+
     }
 
     public Point getV1() {
