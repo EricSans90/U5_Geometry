@@ -41,6 +41,7 @@ public class Segment {
         xDistance = x2-x1;
         yDistance = y2-y1;
 
+
         return Math.sqrt(Math.pow(xDistance,2)+Math.pow(yDistance,2));
     }
 

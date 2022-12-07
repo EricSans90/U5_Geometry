@@ -70,6 +70,14 @@ public class Point {
         x+=offX;
         y+=offY;
     }
+    /* Create a
+static method in the class Point distance() that accepts two points as a parameter
+and returns the distance between them.
+    public static double distance(Point p1, Point p2){
+        double distance=0;
+        Segment s1 = new Segment(p1,p2);
+        return distance=s1.module(s1);
+    }*/
 
 
 }
