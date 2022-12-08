@@ -10,7 +10,7 @@ public class TestMyTriangle {
         System.out.println("t2 is: "+t2.printType());
         /* IMPORTANT COMMENT as a triangle equilateral doesn't exist with all the vertices with integer coordinates
          (remember Pick's theorem if all vertices are integers then the area is rational number, but with
-          pythagoras we have that the hypotenuse is square root of 2, which is irrational, se we get a contradiction here)
+          pythagoras we have that the hypotenuse is square root of the side, which is irrational, so we get a contradiction here)
         I cannot check if it works with Point being created as integer coordinates, but as it does work with scalene
         and isosceles I will assume it does work with equilateral too */
 
