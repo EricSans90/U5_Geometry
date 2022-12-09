@@ -2,11 +2,8 @@ import java.lang.Math;
 
 public class Segment {
     //2 Point fields set on private
-    //Si no lo hago así me devuelve un NullPointer...
-   // Point p1 = new Point (0,0);
-   // Point p2 = new Point (0,0);
-    private Point startPoint;//= new Point (0,0);
-    private Point endPoint;//= new Point (0,0);
+    private Point startPoint;
+    private Point endPoint;
 
     //Non argument constructor
     public Segment(){
@@ -43,7 +40,8 @@ public class Segment {
         return Math.sqrt((Math.pow(xDistance,2))+(Math.pow(yDistance,2)));
     }
 
-    public double moduleSquare(){
+    /* TESTING
+        public double moduleSquare(){
         double x1=0, x2=0, y1=0, y2=0, xDistance=0, yDistance=0;
         x1=this.startPoint.getX();
         y1=this.startPoint.getY();
@@ -52,7 +50,7 @@ public class Segment {
         xDistance = x2-x1;
         yDistance = y2-y1;
         return (Math.pow(xDistance,2)+Math.pow(yDistance,2));
-    }
+    } */
 
     public String toString(){
         return "("+getStartPoint().getX()+","+getStartPoint().getY()+") - ("
